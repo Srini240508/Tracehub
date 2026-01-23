@@ -3,7 +3,10 @@
 TraceHub is a secure, institutional Lost & Found platform designed for Sai Vidya Institute of Technology. It streamlines the process of recovering lost personal belongings by connecting finders and owners through a digital, real-time interface.
 
 [TraceHub Demo](https://placehold.co/1200x600?text=App+Screenshot+Placeholder)
-*(Add your actual app screenshots here)*
+<img width="263" height="377" alt="image" src="https://github.com/user-attachments/assets/321e0efd-c8ad-4c45-82d7-9008308ca5c6" />
+<img width="264" height="377" alt="image" src="https://github.com/user-attachments/assets/c274dd28-9ed0-4e99-8acb-f638d8a4bc4f" />
+
+
 
 🚀 Live Demo
 [Visit TraceHub Live](https://tracehub.vercel.app)**
